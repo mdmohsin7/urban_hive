@@ -1,0 +1,6 @@
+[submodule "urban_hive_seller"]
+	path = urban_hive_seller
+	url = https://github.com/mdmohsin7/urban_hive_seller
+[submodule "urban_hive_customer"]
+	path = urban_hive_customer
+	url = https://github.com/mdmohsin7/urban_hive_customer
